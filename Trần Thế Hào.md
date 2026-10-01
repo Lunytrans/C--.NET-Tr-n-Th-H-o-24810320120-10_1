@@ -20,7 +20,7 @@ Câu 2: Tính năng Init-only Properties (init) trong C# 9/10 so với set thôn
 2. Trường hợp sử dụng thực tế:
 Rất hữu ích khi xây dựng các đối tượng Immutable (bất biến) — nghĩa là dữ liệu không được phép thay đổi sau khi đã tạo ra (ví dụ: DTOs, cấu hình ứng dụng, record). Nó giúp mã nguồn an toàn hơn, tránh tình trạng vô tình làm thay đổi trạng thái của đối tượng ở các tầng xử lý khác.
 
-public class UserDto
+public class UserDto
 {
     public string Username { get; init; }
     public string Email { get; init; }
