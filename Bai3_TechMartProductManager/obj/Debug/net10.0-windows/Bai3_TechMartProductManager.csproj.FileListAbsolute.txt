@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\Bai3_TechMartProductManager\bin\Debug\net10.0-windows\Bai3_TechMartProductManager.exe
+C:\Users\Admin\OneDrive\Desktop\Bai3_TechMartProductManager\bin\Debug\net10.0-windows\Bai3_TechMartProductManager.deps.json
+C:\Users\Admin\OneDrive\Desktop\Bai3_TechMartProductManager\bin\Debug\net10.0-windows\Bai3_TechMartProductManager.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Bai3_TechMartProductManager\bin\Debug\net10.0-windows\Bai3_TechMartProductManager.dll
+C:\Users\Admin\OneDrive\Desktop\Bai3_TechMartProductManager\bin\Debug\net10.0-windows\Bai3_TechMartProductManager.pdb
+C:\Users\Admin\OneDrive\Desktop\Bai3_TechMartProductManager\obj\Debug\net10.0-windows\Bai3_TechMartProductManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Bai3_TechMartProductManager\obj\Debug\net10.0-windows\Bai3_TechMartProductManager.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Bai3_TechMartProductManager\obj\Debug\net10.0-windows\Bai3_TechMartProductManager.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Bai3_TechMartProductManager\obj\Debug\net10.0-windows\Bai3_TechMartProductManager.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Bai3_TechMartProductManager\obj\Debug\net10.0-windows\Bai3_TechMartProductManager.dll
+C:\Users\Admin\OneDrive\Desktop\Bai3_TechMartProductManager\obj\Debug\net10.0-windows\refint\Bai3_TechMartProductManager.dll
+C:\Users\Admin\OneDrive\Desktop\Bai3_TechMartProductManager\obj\Debug\net10.0-windows\Bai3_TechMartProductManager.pdb
+C:\Users\Admin\OneDrive\Desktop\Bai3_TechMartProductManager\obj\Debug\net10.0-windows\Bai3_TechMartProductManager.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Bai3_TechMartProductManager\obj\Debug\net10.0-windows\ref\Bai3_TechMartProductManager.dll

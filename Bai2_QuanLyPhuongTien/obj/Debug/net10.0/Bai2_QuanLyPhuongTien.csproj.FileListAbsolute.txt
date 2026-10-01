@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\Bai2_QuanLyPhuongTien\bin\Debug\net10.0\Bai2_QuanLyPhuongTien.exe
+C:\Users\Admin\OneDrive\Desktop\Bai2_QuanLyPhuongTien\bin\Debug\net10.0\Bai2_QuanLyPhuongTien.deps.json
+C:\Users\Admin\OneDrive\Desktop\Bai2_QuanLyPhuongTien\bin\Debug\net10.0\Bai2_QuanLyPhuongTien.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Bai2_QuanLyPhuongTien\bin\Debug\net10.0\Bai2_QuanLyPhuongTien.dll
+C:\Users\Admin\OneDrive\Desktop\Bai2_QuanLyPhuongTien\bin\Debug\net10.0\Bai2_QuanLyPhuongTien.pdb
+C:\Users\Admin\OneDrive\Desktop\Bai2_QuanLyPhuongTien\obj\Debug\net10.0\Bai2_QuanLyPhuongTien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Bai2_QuanLyPhuongTien\obj\Debug\net10.0\Bai2_QuanLyPhuongTien.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Bai2_QuanLyPhuongTien\obj\Debug\net10.0\Bai2_QuanLyPhuongTien.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Bai2_QuanLyPhuongTien\obj\Debug\net10.0\Bai2_QuanLyPhuongTien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Bai2_QuanLyPhuongTien\obj\Debug\net10.0\Bai2_QuanLyPhuongTien.dll
+C:\Users\Admin\OneDrive\Desktop\Bai2_QuanLyPhuongTien\obj\Debug\net10.0\refint\Bai2_QuanLyPhuongTien.dll
+C:\Users\Admin\OneDrive\Desktop\Bai2_QuanLyPhuongTien\obj\Debug\net10.0\Bai2_QuanLyPhuongTien.pdb
+C:\Users\Admin\OneDrive\Desktop\Bai2_QuanLyPhuongTien\obj\Debug\net10.0\Bai2_QuanLyPhuongTien.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Bai2_QuanLyPhuongTien\obj\Debug\net10.0\ref\Bai2_QuanLyPhuongTien.dll
